@@ -1,0 +1,26 @@
+{
+  "name": "youscode-takemeout",
+  "version": "1.0.0",
+  "description": "Projet NativeScript React avec TypeScript et Tailwind CSS",
+  "scripts": {
+    "tns": "ns",
+    "android": "ns run android",
+    "ios": "ns run ios"
+  },
+  "dependencies": {
+    "@nativescript/core": "~8.5.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-nativescript": "^0.8.2"
+  },
+  "devDependencies": {
+    "@nativescript/webpack": "~5.0.10",
+    "autoprefixer": "^10.4.0",
+    "css-loader": "^6.7.3",
+    "postcss": "^8.4.14",
+    "postcss-loader": "^6.2.1",
+    "style-loader": "^3.3.1",
+    "tailwindcss": "^3.0.0",
+    "typescript": "~4.9.5"
+  }
+}
